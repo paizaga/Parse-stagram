@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/paizaga/Parse-stagram/blob/c09aaa7812a29bfbb86560bbe62e259c9ecbc96e/ezgif-6-90ff441c1096.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
