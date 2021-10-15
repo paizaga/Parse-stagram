@@ -1,0 +1,6 @@
+framework module Pods_Parse_stgramTests {
+  umbrella header "Pods-Parse-stgramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
